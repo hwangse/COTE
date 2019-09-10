@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1_greedy_1120.cpp">
+    <ClCompile Include="1_greedy_boj_1946.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_greedy_boj_1541.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_greedy_boj_1120.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_greedy_boj_1080.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
