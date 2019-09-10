@@ -27,5 +27,8 @@
     <ClCompile Include="1_greedy_boj_1080.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1_greedy_boj_1931.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
