@@ -60,5 +60,8 @@
     <ClCompile Include="2_dp_boj_11727.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2_dp_boj_11057.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
