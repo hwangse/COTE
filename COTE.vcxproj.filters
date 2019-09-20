@@ -93,5 +93,8 @@
     <ClCompile Include="2_dp_boj_2748.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5_stack_boj_1874.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
