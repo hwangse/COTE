@@ -1,7 +1,8 @@
-﻿  6_queue_boj_1966.cpp
+﻿  5_stack_boj_1935.cpp
+c:\users\rnldu\source\repos\cote\cote\5_stack_boj_1935.cpp(31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   코드를 생성하고 있습니다.
-  3 of 94 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    4 functions had inline decision re-evaluated but remain unchanged
+  117 of 217 functions (53.9%) were compiled, the rest were copied from previous compilation.
+    113 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   COTE.vcxproj -> C:\Users\rnldu\source\repos\COTE\Release\COTE.exe
