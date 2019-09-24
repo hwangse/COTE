@@ -1,8 +1,8 @@
-﻿  7_string_boj_1764.cpp
-c:\users\rnldu\source\repos\cote\cote\7_string_boj_1764.cpp(5): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+﻿  7_string_obj_11656.cpp
+c:\users\rnldu\source\repos\cote\cote\7_string_obj_11656.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   코드를 생성하고 있습니다.
-  114 of 286 functions (39.9%) were compiled, the rest were copied from previous compilation.
-    35 functions were new in current compilation
-    31 functions had inline decision re-evaluated but remain unchanged
+  41 of 210 functions (19.5%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
   코드를 생성했습니다.
   COTE.vcxproj -> C:\Users\rnldu\source\repos\COTE\Release\COTE.exe
