@@ -138,5 +138,8 @@
     <ClCompile Include="7_string_boj_1764_again.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7_string_boj_2789.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
