@@ -153,5 +153,8 @@
     <ClCompile Include="2_dp_boj_11055.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1_greedy_boj_1969.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
