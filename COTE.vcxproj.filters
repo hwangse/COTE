@@ -141,7 +141,16 @@
     <ClCompile Include="7_string_boj_2789.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="1_boj_greedy_2529.cpp">
+    <ClCompile Include="1_greedy_boj_2352.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1_greedy_boj_2529.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_dp_boj_2631.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_dp_boj_11055.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
