@@ -19,7 +19,9 @@ public :
 		this->left = left;
 		this->right = right;
 	}
-
+	T getData() {
+		return data;
+	}
 
 	
 };
@@ -71,6 +73,11 @@ public :
 	}
 };
 
+TreeNode<char>* recursive(TreeNode<char> current, char letter) {
+	if (current.getData() == null) return;
+
+}
+
 int main() {
 	int n;
 	cin >> n;
@@ -88,7 +95,9 @@ int main() {
 		root = TreeNode<char>(a, &left, &right);
 
 		if (i == 0) head = &root;
+		else {	
 
+		}
 
 
 	}

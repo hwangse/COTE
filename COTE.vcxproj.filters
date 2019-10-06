@@ -162,5 +162,11 @@
     <ClCompile Include="8_tree_boj_1991.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8_tree_leetcode_94.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7_string_boj_5586.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
